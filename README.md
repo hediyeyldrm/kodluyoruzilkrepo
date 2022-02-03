@@ -7,7 +7,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 ***
 ## Installation
 
-''' https://github.com/hediyeyldrm/kodluyoruzilkrepo.git
+ https://github.com/hediyeyldrm/kodluyoruzilkrepo.git
 
 ***
 ## Usage
@@ -16,10 +16,10 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 Linux için;
 
-''' cd kodluyoruzilkrepo
-
+```cd 
+kodluyoruzilkrepo
 code .
-
+```
 ***
 ## Contributing
 
